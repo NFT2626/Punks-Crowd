@@ -2,9 +2,9 @@ console.clear();
 console.log('lsakdfalskjdflnksd');
 
 const config = {
-  src: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/open-peeps-sheet.png',
-  rows: 15,
-  cols: 7 };
+  src: 'https://raw.githubusercontent.com/NFT2626/Punks-Crowd/main/morepunks.v2.png',
+  rows: 25,
+  cols: 39.98 };
 
 
 // UTILS
